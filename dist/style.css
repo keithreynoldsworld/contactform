@@ -1,12 +1,52 @@
-input {
+input.text {
 	display: block;
+	border-left: solid black 3px;
+	width: 170px;
 }
 
 div{
-	color:red;
+	color:black;
+	background: white;
 	
 }
 
 textarea {
 	display: block;
+	border-left: solid black 3px;
+	width: 170px;
+}
+
+body {
+
+	background:black;
+}
+
+#success {
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 180px;
+	padding: 5px 25px 25px 25px;
+
+
+}
+
+#keith1, #keith2, #keith3, #keith4{
+
+	color: red;
+
+}
+
+.grean {
+
+	background: green;
+
+}
+
+#keithykeith {
+	margin-top:4px;
+	background: black;
+	color: white;
+	padding: 5px 10px 5px 10px;
+
 }
